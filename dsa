@@ -1,0 +1,60 @@
+-----Array
+Find the maximum sum subarray (Kadane’s Algorithm).
+Merge two sorted arrays without extra space.
+Find duplicates in an array.
+Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
+Find the missing number in an array of size n containing numbers from 1 to n.
+-----Strings
+Reverse a string or sentence.
+Check if two strings are anagrams.
+Find the first non-repeating character.
+Implement strstr() to find a substring in a string.
+Longest Palindromic Substring.
+-----Linked List
+Reverse a linked list.
+Detect a cycle in a linked list (Floyd’s Cycle Detection).
+Merge two sorted linked lists.
+Find the middle element of a linked list.
+Remove nth node from the end.
+-----Stack and Queue
+Implement a stack using two queues.
+Next Greater Element.
+Implement a queue using a stack.
+Validate if a string has balanced parentheses.
+LRU Cache implementation.
+-----Trees
+Inorder, Preorder, and Postorder traversals (recursive and iterative).
+Find the height of a binary tree.
+Check if a tree is balanced.
+Lowest Common Ancestor of two nodes.
+Check if a binary tree is a BST.
+-----Graphs
+BFS and DFS of a graph.
+Detect a cycle in a graph (directed and undirected).
+Shortest Path in a graph (Dijkstra’s or Bellman-Ford Algorithm).
+Topological Sort.
+Find the number of connected components in a graph.
+Dynamic Programming
+0/1 Knapsack problem.
+Longest Common Subsequence.
+Longest Increasing Subsequence.
+Coin Change problem.
+Matrix Chain Multiplication.
+Recursion and Backtracking
+Solve N-Queens problem.
+Find all subsets of a set.
+Generate all permutations of a string/array.
+Sudoku Solver.
+Rat in a Maze problem.
+Sorting and Searching
+Binary Search.
+Merge Sort and Quick Sort.
+Find the kth largest/smallest element.
+Search in a rotated sorted array.
+Find a pair with a given sum in a sorted array.
+-----Miscellaneous
+Find the majority element (Moore’s Voting Algorithm).
+Median of two sorted arrays.
+Trapping Rain Water problem.
+Sliding Window Maximum.
+Implement a Min Heap and Max Heap.
